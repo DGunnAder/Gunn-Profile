@@ -1,0 +1,67 @@
+/* ------- This is where I will write the CSS that will style the entire webpage ------- */
+
+
+header {
+  background-color: #452b40;
+  color: #fcf8f8;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 4px 4px #121212;
+  padding: 5px;
+  margin: 5px;
+}
+
+.logo {
+  color: #0c3611;
+  font-size: 30px;
+  font-family: comic sans ms, sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #0c3611;
+ 
+}
+
+  section {
+    padding: 5px;
+    margin: 5px ;
+    text-align: center;
+    color: #0c3611;
+    background-color: #84627d;
+  }
+  img {
+    width: 50%;
+    border-radius: 8px;
+    align-content: center;
+  }
+p {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: #0c3611
+}
+li span { 
+   position: relative; left: -10px; 
+}
+footer {
+  background-color: #452b40;
+  color: #f4f5f4;
+  text-shadow: 2px 2px #121212;
+  font-family: "Comic Sans MS", sans-serif";
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+}
+a {
+a:link { color: #bb0707; }
+a:visited { color: #2f1655; }
+a:hover { color: #8f4e14; }
+a:active { color: #100f0f; }
+a:hover {
+  text-decoration: underline;	 
+}
+}
+h3 {
+  text-align: center;
+}
