@@ -41,8 +41,11 @@ p {
   text-align: center;
   color: #0c3611
 }
-li span { 
-   position: relative; left: -10px; 
+ul {
+  align: center;
+}
+ol {
+  align: center;
 }
 footer {
   background-color: #452b40;
