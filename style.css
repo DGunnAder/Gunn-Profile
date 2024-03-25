@@ -42,10 +42,12 @@ p {
   color: #0c3611
 }
 ul {
+  padding-left: 0;
   text-align: center;
   list-style-position: inside;
 }
 ol {
+  padding-left: 0;
   text-align: center;
   list-style-position: inside;
 }
