@@ -42,10 +42,12 @@ p {
   color: #0c3611
 }
 ul {
-  align: center;
+  text-align: center;
+  list-style-position: inside;
 }
 ol {
-  align: center;
+  text-align: center;
+  list-style-position: inside;
 }
 footer {
   background-color: #452b40;
